@@ -1,0 +1,1 @@
+https://techcommunity.microsoft.com/blog/azuredbsupport/when-and-how-to-update-statistics-in-azure-sql-database/4483352
